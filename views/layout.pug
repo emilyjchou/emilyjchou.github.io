@@ -1,0 +1,16 @@
+doctype html
+html
+  head
+    title My Pug Website
+    link(rel="stylesheet", href="/style.css")
+  body
+    header
+      h1 My Pug Website
+      nav
+        ul
+          li: a(href="/") Home
+          li: a(href="/about") About
+    main
+      block content
+    footer
+      p © #{new Date().getFullYear()} My Website
