@@ -3,6 +3,6 @@ layout: home
 title: Home
 ---
 
-Hi 👋 I'm Emily.
+Hi! My name is Emily, welcome to my website ՞˶･֊･˶՞ 
 
-Welcome to my portfolio and blog.
+This page is used for CSC 642
